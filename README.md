@@ -1,2 +1,3 @@
-# profpronto
-Protótipo do site ProfPronto.com.br
+# ProfPronto.com.br
+
+Protótipo do site para venda de atividades adaptadas.
