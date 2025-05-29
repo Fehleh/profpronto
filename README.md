@@ -1,3 +1,3 @@
-# ProfPronto.com.br
+# ProfPronto
 
-Protótipo do site para venda de atividades adaptadas.
+Site para venda de atividades adaptadas para professores.
