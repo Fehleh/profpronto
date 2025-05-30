@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    padding: 1rem;
+    background-color: #f0f0f0;
+}
+.logo {
+    max-width: 120px;
+    display: block;
+    margin: 0 auto;
+}
+.intro, .preview {
+    padding: 2rem;
+}
+.activity {
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.activity img {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto 1rem;
+}
+button {
+    background-color: #ffa500;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+footer {
+    background: #f0f0f0;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
