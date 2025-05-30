@@ -1,46 +1,45 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: white;
+    background-color: #ffffff;
     color: #333;
     margin: 0;
     padding: 0;
+}
+
+.header {
     text-align: center;
+    background-color: #f9f9f9;
+    padding: 2rem 1rem;
+    border-bottom: 2px solid #eee;
 }
-header {
-    padding: 1rem;
-    background-color: #f0f0f0;
-}
+
 .logo {
     max-width: 120px;
     display: block;
-    margin: 0 auto;
-}
-.intro, .preview {
-    padding: 2rem;
-}
-.activity {
-    display: inline-block;
-    margin: 1rem;
-    padding: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-}
-.activity img {
-    max-width: 200px;
-    display: block;
     margin: 0 auto 1rem;
 }
-button {
-    background-color: #ffa500;
+
+.hero {
+    text-align: center;
+    padding: 2rem;
+}
+
+.buy-button {
+    background-color: #ff9800;
     color: white;
     border: none;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 8px;
     cursor: pointer;
+    margin-top: 1rem;
 }
+
 footer {
-    background: #f0f0f0;
-    padding: 1rem;
+    text-align: center;
     font-size: 0.9rem;
+    color: #777;
+    padding: 1rem;
+    border-top: 1px solid #eee;
 }
